@@ -1,5 +1,5 @@
 # HackerRank: 30 Days of Code - Day 1: Data Types
- 
+#
 i = 4
 d = 4.0
 s = 'HackerRank '
